@@ -5,9 +5,9 @@ Programming & Unity development by Malia Jones, art assets by Cecilia Deleon-Wil
 
 **Script Attachments in the Editor**
   - Player (GameObject) <= PlayerControlls.cs
-  - OceanFloorTrigger (GameObject) <= OceanFloor.cs
   - Spawners (GameObject) <= EnemySpawner.cs, PlanktonSpawner.cs
-  - WaterLineTrigger (GameObject) <= Waterline.cs
   - GameManager (GameObject) <= GameManager.cs
+  - OceanFloorTrigger (GameObject) <= OceanFloor.cs
+  - WaterLineTrigger (GameObject) <= Waterline.cs
   - Enemy1 (Prefab) <= Enemy.cs
   - Plankton (Prefab) <= Plankton.cs
