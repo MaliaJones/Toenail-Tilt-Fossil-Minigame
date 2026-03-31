@@ -3,7 +3,7 @@ What are those little things?? They go by many names- Devil's Toenails, Texas To
 
 Programming & Unity development by Malia Jones, art assets by Cecilia Deleon-Wilson
 
-Play Online on Unity Play here: https://play.unity.com/en/games/5d0ad111-8c7a-47ae-a81a-1949dbf60c2d/toenail-tilt
+Play Online via Unity Play here: https://play.unity.com/en/games/5d0ad111-8c7a-47ae-a81a-1949dbf60c2d/toenail-tilt
 
 **Script Attachments in the Editor**
   - Player (GameObject) <= PlayerControlls.cs
